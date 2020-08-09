@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Title
+pages:
+- bahasa-indonesia/introduction-to-bahasa-indonesia.md
